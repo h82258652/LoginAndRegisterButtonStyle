@@ -1,5 +1,9 @@
 ﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
     <SolidColorBrush x:Key="AppAccentBrush"
-                     Color="Orange" />
+                     Color="#FF9900" />
+    <SolidColorBrush x:Key="AppAccentDarkBrush"
+                     Color="#BF8630" />
+    <SolidColorBrush x:Key="AppAccentLightBrush"
+                     Color="#FFB240" />
 </ResourceDictionary>
