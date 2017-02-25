@@ -18,8 +18,10 @@
                     VerticalAlignment="Center"
                     Orientation="Vertical">
             <Button Margin="4"
+                    Content="登录"
                     Style="{StaticResource LoginButtonStyle}" />
             <Button Margin="4"
+                    Content="注册"
                     Style="{StaticResource RegistryButtonStyle}" />
         </StackPanel>
     </Grid>
